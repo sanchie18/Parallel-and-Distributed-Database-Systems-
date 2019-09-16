@@ -1,4 +1,4 @@
-[Command: python -u '/Users/alex/Documents/School /Adv Database/HW2_sanchez/HW2_Sanchez.py']
+
 Number of sites: 4
 
 Computing optimal allocation for fragment 0
