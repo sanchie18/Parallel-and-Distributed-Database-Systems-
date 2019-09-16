@@ -1,3 +1,3 @@
 # Parallel-and-Distributed-Database-Systems-
 
-<img width="651" alt="ParallelDistributedDatabase" src="https://user-images.githubusercontent.com/40281875/64998900-e1c46180-d8b3-11e9-9abc-36619c061c35.png">
+<img width="334" alt="Screen Shot 2019-09-16 at 6 57 08 PM" src="https://user-images.githubusercontent.com/40281875/64998931-002a5d00-d8b4-11e9-82b0-8925c0f80906.png">
